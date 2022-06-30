@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.6dad4655.js",
-    "static/js/787.f8068d55.chunk.js": "/react-gh-pages/static/js/787.f8068d55.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.6dad4655.js.map": "/react-gh-pages/static/js/main.6dad4655.js.map",
-    "787.f8068d55.chunk.js.map": "/react-gh-pages/static/js/787.f8068d55.chunk.js.map"
+    "main.css": "/Pflegia-task-2/static/css/main.073c9b0a.css",
+    "main.js": "/Pflegia-task-2/static/js/main.aae65076.js",
+    "static/js/787.f8068d55.chunk.js": "/Pflegia-task-2/static/js/787.f8068d55.chunk.js",
+    "static/media/logo.svg": "/Pflegia-task-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pflegia-task-2/index.html",
+    "main.073c9b0a.css.map": "/Pflegia-task-2/static/css/main.073c9b0a.css.map",
+    "main.aae65076.js.map": "/Pflegia-task-2/static/js/main.aae65076.js.map",
+    "787.f8068d55.chunk.js.map": "/Pflegia-task-2/static/js/787.f8068d55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6dad4655.js"
+    "static/js/main.aae65076.js"
   ]
 }
